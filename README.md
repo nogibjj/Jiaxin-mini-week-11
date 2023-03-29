@@ -1,4 +1,6 @@
 # Mini projet for week 11
+<img width="248" alt="Screen Shot 2023-03-28 at 11 33 53 PM" src="https://user-images.githubusercontent.com/112274822/228419980-c96cff23-24a4-4036-b5b8-5fb2297a6ec3.png">
+
 ## Goals
 The `with` macro is a feature in certain programming languages, such as Rust and Kotlin, that allows you to simplify the code by reducing the need to repeatedly reference the same object when calling its methods. It is particularly useful when working with complex data structures or APIs that require many method calls on the same object.
 
